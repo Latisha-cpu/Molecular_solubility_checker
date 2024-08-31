@@ -48,3 +48,9 @@ Computes molecular descriptors for each input molecule.
 Predicts the solubility (LogS) using the pre-trained model.
 
 Displays the computed descriptors and the predicted solubility values.
+
+## Acknowledgments
+
+Data used in this project is derived from John S. Delaney's work: ESOL: Estimating Aqueous Solubility Directly from Molecular Structure.
+
+The project uses RDKit for molecular descriptor calculations.
